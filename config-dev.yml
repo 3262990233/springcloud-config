@@ -1,2 +1,3 @@
 #config-dev
-config.info=asdasadas
+config:
+  info: asdasadas
